@@ -1,6 +1,6 @@
 # Deploy simple Quiz application and take the quiz
 
-<a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/rapchic/IBM-Cloud-simple-quiz.git&branch=master"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
+<a href="https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/rapchic/IBM-Cloud-simple-quiz.git&branch=master"><img src="https://cloud.ibm.com/devops/setup/deploy/button.png" alt="Deploy to IBM Cloud"></a>
 
 1. Press the above `Deploy to IBM Cloud` button and then...
 
