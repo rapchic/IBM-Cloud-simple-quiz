@@ -1,10 +1,10 @@
 # Github repos
  services:
   sample-repo:
-    service_id: githubprivate
+    service_id: github
     parameters:
       repo_name: '{{toolchain.name}}'
-      repo_url: 'https://github.ibm.com/riyamaro/quiz-app.git'
+      repo_url: 'https://github.com/rapchic/IBM-Cloud-simple-quiz.git'
       type: clone
       has_issues: true
       enable_traceability: true
